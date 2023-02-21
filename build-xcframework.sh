@@ -1,24 +1,24 @@
-rm -rf ~/Desktop/Xcode13ClockHandRotationEffect-iphoneos.xcarchive
-rm -rf ~/Desktop/Xcode13ClockHandRotationEffect-iphonesimulator.xcarchive
-rm -rf ~/Desktop/Xcode13ClockHandRotationEffect.xcframework
+rm -rf ~/Desktop/ClockHandRotationEffect-iphoneos.xcarchive
+rm -rf ~/Desktop/ClockHandRotationEffect-iphonesimulator.xcarchive
+rm -rf ~/Desktop/ClockHandRotationEffect.xcframework
 
 xcrun xcodebuild archive \
- -scheme Xcode13ClockHandRotationEffect \
- -archivePath ~/Desktop/Xcode13ClockHandRotationEffect-iphoneos.xcarchive \
+ -scheme ClockHandRotationEffect \
+ -archivePath ~/Desktop/ClockHandRotationEffect-iphoneos.xcarchive \
  -sdk iphoneos \
  SKIP_INSTALL=NO
 
 
 
 xcrun xcodebuild archive \
- -scheme Xcode13ClockHandRotationEffect \
- -archivePath ~/Desktop/Xcode13ClockHandRotationEffect-iphonesimulator.xcarchive \
+ -scheme ClockHandRotationEffect \
+ -archivePath ~/Desktop/ClockHandRotationEffect-iphonesimulator.xcarchive \
  -sdk iphonesimulator \
  SKIP_INSTALL=NO
 
 
 
 xcrun xcodebuild -create-xcframework \
- -framework ~/Desktop/Xcode13ClockHandRotationEffect-iphonesimulator.xcarchive/Products/Library/Frameworks/Xcode13ClockHandRotationEffect.framework \
- -framework ~/Desktop/Xcode13ClockHandRotationEffect-iphoneos.xcarchive/Products/Library/Frameworks/Xcode13ClockHandRotationEffect.framework \
- -output ~/Desktop/Xcode13ClockHandRotationEffect.xcframework
+ -framework ~/Desktop/ClockHandRotationEffect-iphonesimulator.xcarchive/Products/Library/Frameworks/ClockHandRotationEffect.framework \
+ -framework ~/Desktop/ClockHandRotationEffect-iphoneos.xcarchive/Products/Library/Frameworks/ClockHandRotationEffect.framework \
+ -output ~/Desktop/ClockHandRotationEffect.xcframework
