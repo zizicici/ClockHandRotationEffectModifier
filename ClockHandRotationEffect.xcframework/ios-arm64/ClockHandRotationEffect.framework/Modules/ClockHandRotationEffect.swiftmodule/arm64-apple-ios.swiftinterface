@@ -1,0 +1,18 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ClockHandRotationEffect
+@_exported import ClockHandRotationEffect
+import Swift
+import SwiftUI
+import WidgetKit
+import _Concurrency
+public struct ClockHandRotationEffectModifier : SwiftUI.ViewModifier {
+  public enum Period {
+    case custom(Foundation.TimeInterval)
+    case secondHand, hourHand, minuteHand
+  }
+  public init(_ period: ClockHandRotationEffect.ClockHandRotationEffectModifier.Period, in timezone: Foundation.TimeZone, anchor: SwiftUI.UnitPoint)
+  @_Concurrency.MainActor(unsafe) public func body(content: ClockHandRotationEffect.ClockHandRotationEffectModifier.Content) -> some SwiftUI.View
+  
+  public typealias Body = @_opaqueReturnTypeOf("$s23ClockHandRotationEffect0abcD8ModifierV4body7contentQr7SwiftUI05_ViewE8_ContentVyACG_tF", 0) __
+}
