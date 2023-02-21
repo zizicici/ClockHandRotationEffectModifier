@@ -14,10 +14,9 @@ xcode-select -p /Applications/Xcode13.4.1.app/Contents/Developer
 open /Applications/Xcode13.4.1.app/Contents/MacOS/Xcode
 ```
 
-3. Don't forget Setting `Yes` in Target -> `Build Settings` -> `Build Options` -> `Build Libraries for Distribution`
+3. Don't forget setting `Yes` in target -> `Build Settings` -> `Build Options` -> `Build Libraries for Distribution`
 
-
-4. When you drag xcframework in your project. Please set "Embed & Sign" in Target -> 'General' -> `Frameworks, Libraries, and Embedded Content`
+When you drag xcframework in your project. Please set "Embed & Sign" in target -> 'General' -> `Frameworks, Libraries, and Embedded Content`
 
 ----
 
