@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dFxwLXACpLBMoe0UgoMd5TK7mFs=
+		1sc/Nng5TX/Q6Ax+Eb37ljls9Bc=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		AW6A2jiPBR4Bc2ca9rDx6XXPYoE=
+		7ZKu/Xld85ZkF/pEAaS1fXZR1qQ=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DbNJDEuEUXruQ8m4rLzvCNJjXX8=
+		MJHM1f/PTq8CEXBHz7+fKTnywU4=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6rmo2JNxGamD5hJnrT+YxBzUeLk=
+		rEsTnf0Fq1uaOLLnUfSvKBrNoZU=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cwS0IaZxFYigK8aB4XM0WNR67GE=
+		blyWHHhS7L6PgjcrFZxA5+Ijrbw=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jcD1Dk+xPeALIjgmNjpZu4zUdtE=
+		oxClw9TDbIn1zjxTzlOuhqy+5ks=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C/LesFnUGJywrewEzq1xkBpC1CE=
+		i0eIl4pcQJe2lrK1K3f51RkmWiU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9AzQ0N4M2A1eZ8eCVjBQEdl10V6HJ5wR1FLRcUP7y2E=
+			7UZGi9w9gii3PTxHi3fMfQBJOtb2Xyd4eEzjHHs3uGY=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y12VdZIe2uvvatu74cpTEiQq/iLXvfCQrsAPQuaSbDI=
+			RzJxm4bpUkCE78mSFgFlyTYC580n52HhMMLW8y5R03Q=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yEFYNtEYYHHHeY3HVpwyTKtAOBBGtBWm66gyUUrMwYc=
+			BWmUK9ucxcojM7vxos+M9Nytlda3e/Pxm7maq1FZ3DM=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R3dnHd+uoD1Lpnbg74Qs1NT0jYV+P27lOyLuDUIsioc=
+			VK8VmThAtQ8vwddC8kNlXuEdNb8UQTSLWs/hw7k0wXE=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p743etSkH9m0OwNCSJgz8W20S9Tgin5hIdCc4dZ2cCA=
+			orjuPNNd8VfBTzYsBwSS2Cr8aPmzj2Hy/zKowA2dXEw=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EPZqNzeaDMTetabjZZbwQ+ZT348T2nFnVV6GJoIYDgQ=
+			4xLYwboDVjSJaf7e0o97W1Wjc8K7VDltXHmej0GjwCc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

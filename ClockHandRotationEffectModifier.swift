@@ -7,6 +7,7 @@
 import SwiftUI
 import WidgetKit
 
+@available(iOS 14.0, *)
 public struct ClockHandRotationEffectModifier: ViewModifier {
     public enum Period {
         case custom(TimeInterval)

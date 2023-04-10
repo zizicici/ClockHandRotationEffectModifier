@@ -14,19 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WNp1tI5MB3kgLbPoA8GBdEDb2B4=
+		azJVDe0HgxLfTpydTaGbpgorEs0=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		cCm59gYCmAvf8PkgVxJAKPYQwRw=
+		WtVQGAcAGxBwStgS9q4l4BdoL5Q=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JgwmgTlm8YWLjESzKvevCK9RNIM=
+		uKwHey323Aub7JmFDF7GloNOANI=
 		</data>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		eY+ML1exPq8+rb8it3HXYyE20W8=
+		zAw1jgbMTHAL3I6vlbrJ8EbfD6c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,21 +53,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WWbA8ZoT3MWEaLjmLJr+ErjNDKa9HhIUVkDbZ9Lxj3w=
+			8aycR8Hp1AFH7RCK14622YD+6xqI2HBY5B0nJNC963U=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8JBNT3Is+2vWZULSsr1hmDg3UxPQ8+YwNf8OmYQDaSg=
+			2U9vIJ/AFUzlbIPUXCIyiGMIOTp0ZIYDsZexy3qBkpM=
 			</data>
 		</dict>
 		<key>Modules/ClockHandRotationEffect.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MreFrRZZjUm6OQ9+NVKAUcBFcNuPcQgusA9okiOnkgk=
+			5yeeK6wz2qV/H/Ael9DUfLxanunKJLyZzUGsEqXeiLA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
